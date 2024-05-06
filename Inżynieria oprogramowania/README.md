@@ -5,4 +5,4 @@
 - plany testów, opracowanie norm i harmonogramów dla aplikacji
 - plan wprowadzenia aplikacji na rynek 
 
-Projekt wykonany wraz z @
+Projekt wykonany wraz z @KalBia
