@@ -1,4 +1,5 @@
 # University
-Some of the things I did for Uni courses.
+Niektóre zadania i projekty ze studiów na Uniwersytecie Wrocławskim.
 
-Something will be published here soon...
+- Inżynieria oprogramowania
+- more coming soon...
