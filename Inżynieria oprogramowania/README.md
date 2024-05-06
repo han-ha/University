@@ -5,4 +5,4 @@
 - plany testów, opracowanie norm i harmonogramów dla aplikacji
 - plan wprowadzenia aplikacji na rynek 
 
-Projekt wykonany wraz z @KalBia
+Projekt wykonany wraz z @KalBia (https://github.com/KalBia)
